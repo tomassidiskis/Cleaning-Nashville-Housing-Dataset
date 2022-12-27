@@ -1,6 +1,3 @@
---- Cleaning Nashville Housing Dataset
-
-
 
 SELECT *
 FROM PortfolioProject.dbo.NashvilleHousing
